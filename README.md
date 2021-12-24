@@ -17,7 +17,6 @@ I am a passionate developer and architect, always looking for improvement. I bel
 ![Git](https://img.icons8.com/color/30/git.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
-![Console](https://img.icons8.com/lor/30/console.png)
 
 
 ## Get in touch
