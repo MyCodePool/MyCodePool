@@ -8,7 +8,7 @@ I am a passionate developer and architect, always looking for improvement. I bel
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
-![Laravel](https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png)
+![Laravel](https://img.icons8.com/external-tal-revivo-color-tal-revivo/26/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png)
 ![VueJS](https://img.icons8.com/color/30/vue-js.png)
 ![MySQL](https://img.icons8.com/ios-filled/30/000000/mysql.png)
 ![Python](https://img.icons8.com/color/30/000000/python--v1.png)
