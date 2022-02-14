@@ -20,6 +20,5 @@ I am a passionate developer and architect, always looking for improvement. I bel
 
 
 ## Get in touch
-- Business Website: [locotigmbh.com](https://www.locotigmbh.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/cenk-toprak)
 
